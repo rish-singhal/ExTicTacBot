@@ -1,4 +1,4 @@
-##AI-BOT
+## AI-BOT
 
 As a part of Artificial Intelligence Course.
 Developed a Bot implementing :
